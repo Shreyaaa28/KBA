@@ -1,0 +1,8 @@
+streamlit
+chromadb
+python-dotenv
+PyPDF2
+supabase
+sentence-transformers
+groq
+reportlab
